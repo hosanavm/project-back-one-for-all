@@ -1,2 +1,2 @@
-SELECT COUNT(*) AS quantidade_musicas_no_historico FROM usuario_cancao
+SELECT COUNT(*) AS quantidade_musicas_no_historico FROM SpotifyClone.usuario_cancao
 WHERE usuario_id = 3;
